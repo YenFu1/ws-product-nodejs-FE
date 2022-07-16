@@ -28,6 +28,33 @@
   color: #61dafb;
 }
 
+.chart-container {
+  width: 500px;
+  height: 500px;
+}
+
+.custom-tooltip {
+  padding: 5px;
+  background-color: white;
+  color: black;
+}
+
+.dropdown-container {
+  display: flex;
+}
+
+.dropdown-basic {
+  padding: 10px;
+}
+
+.form {
+  margin: 20px;
+}
+
+.highlighted {
+  color:#61dafb;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
